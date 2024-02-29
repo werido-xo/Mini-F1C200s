@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EAFIXTXQ
 
 [Document3]
 DocumentPath=Mini-F1C200s.PcbDoc
@@ -115,6 +115,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYMZMBPH
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Mini-F1X200S\Design Rule Check - Mini-F1C200s.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
