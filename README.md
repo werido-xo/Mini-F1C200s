@@ -23,19 +23,19 @@
 
 在本次版本的电路中，由于SD卡的线序设计错误，导致使用故障：非常明显的可以看出原理图库中DAT2和DAT3没有按照顺序排列，导致接线出错。在F1C200S启动时，会读取SD卡中的启动标志位信息，由于这里的接线错误会导致识别步到SD卡中的启动标志信息。
 
-![SD-Card](D:\Projects\Altium\Mini-F1X200S\Image\fault-design.png)
+![SD-Card](https://github.com/werido-xo/Mini-F1C200S/blob/TLV62569/Image/fault-design.png)
 
 
 
 解决方案：使用飞线连接SD卡卡槽，纠正SD卡的线序
 
-<img src="D:\Projects\Altium\Mini-F1X200S\Image\fly-sdcard.jpg" alt="sd-card-fly" style="zoom:50%;" />
+<img src="https://github.com/werido-xo/Mini-F1C200S/blob/TLV62569/Image/fly-sdcard.jpg" alt="sd-card-fly" style="zoom:50%;" />
 
 
 
 重新启动，可以看到已经成功的进入了U-Boot:
 
-![uboot-run](D:\Projects\Altium\Mini-F1X200S\Image\run-uboot.jpg)
+![uboot-run](https://github.com/werido-xo/Mini-F1C200S/blob/TLV62569/Image/run-uboot.jpg)
 
 
 
@@ -122,11 +122,11 @@ ubuntu@VM-8-10-ubuntu:~/Linux/linux$
 
 内核的启动参数的打印：Kernel Hacking->arm Debugging
 
-![kernel-haking](D:\Projects\Altium\Mini-F1X200S\Image\kernel-hacking.png)
+![kernel-haking](https://github.com/werido-xo/Mini-F1C200S/blob/TLV62569/Image/kernel-hacking.png)
 
 这里填写UART的基地址后，就可以打印Linux内核启动的详细信息了，对于调试这一点还是非常有用的。关于这里为什么可以，其实和硬件寄存器有一点关系：
 
-![uart](D:\Projects\Altium\Mini-F1X200S\Image\uart2.png)
+![uart](https://github.com/werido-xo/Mini-F1C200S/blob/TLV62569/Image/uart2.png)
 
 也就是说我们可以直接将要发送的数据写入0x00偏移的地址就可以通过UART发送调试信息了。可以参考如下的博客：https://whycan.com/p_94368.html
 
