@@ -43,7 +43,7 @@
 
 + U-Boot的移植：主要是修改串口输出，在本次的设计中使用的是UART2（使用PE7,8引脚），可以按照如下的参考链接进行修改：https://blog.csdn.net/qq_17833651/article/details/127707195
 
-​	注意：CONS_INDEX是从1开始的，这里我们要设置串口3的化需要修改CONS_INDEX为3
+​	注意：CONS_INDEX是从1开始的，这里我们要设置串口2的化需要修改CONS_INDEX为3
 
 
 
