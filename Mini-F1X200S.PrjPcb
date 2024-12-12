@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DYMZMBPH
 
 [Document5]
-DocumentPath=Job1.OutJob
+DocumentPath=E:\Personal\F1C100s设计\PCB Library\Allwinner.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=Mini-F1X200S.OutJob
+DocumentPath=E:\Personal\F1C100s设计\PCB Library\Allwinner.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,114 +149,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Mini-F1X200S\Design Rule Check - Mini-F1C200s.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Mini-F1X200S\NC Drill\Mini-F1C200s-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Mini-F1X200S\NC Drill\Mini-F1C200s-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Mini-F1X200S\NC Drill\Mini-F1C200s.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Mini-F1X200S\NC Drill\Mini-F1C200s.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Mini-F1X200S\Gerber\Mini-F1C200s.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Mini-F1X200S\Pick Place\Pick Place for Mini-F1C200s.csv
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Mini-F1X200S\Pick Place\Pick Place for Mini-F1C200s.txt
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
